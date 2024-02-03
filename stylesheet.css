@@ -7,13 +7,16 @@
 
 body {
   font-family: "Inter", sans-serif;
+  background-image: url(./imgs/sea.webp);
+  background-repeat: no-repeat;
+  background-size: cover ;
+
 }
 
 .container {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(./imgs/sea.webp);
   object-fit: cover;
   height: 100vh;
 }
@@ -25,7 +28,7 @@ body {
   align-items: center;
   text-align: center;
   width: 380px;
-  height: 90vh;
+  height: auto;
   margin: 30px;
   padding: 20px;
   transition: 0.5s 0s ease-in-out;
