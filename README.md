@@ -28,8 +28,8 @@ Creating a social media links page
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/NajmAlzorqah/my-social-media-)
+- Live Site URL: [live site](https://najmalzorqah.github.io/my-social-media-/)
 
 ## My process
 
