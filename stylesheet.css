@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(./imgs/sea.jpg);
+  background-image: url(./imgs/sea.webp);
   object-fit: cover;
   height: 100vh;
 }
